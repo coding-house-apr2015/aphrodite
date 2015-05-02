@@ -21,9 +21,5 @@
   "esnext": true,
 
   "node": true,
-  "devel": true,
-  "browser": true,
-  "jquery": true,
-
-  "globals": {"angular":true, "_":true, "moment":true}
+  "devel": true
 }
