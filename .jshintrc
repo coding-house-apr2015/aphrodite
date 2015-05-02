@@ -20,6 +20,9 @@
   "validthis": true,
   "esnext": true,
 
+  "devel": true,
   "node": true,
-  "devel": true
+  "browser": false,
+
+  "globals": {}
 }
