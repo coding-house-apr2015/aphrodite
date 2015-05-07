@@ -3,5 +3,11 @@
   "version": "0.0.1",
   "homepage": "https://github.com/coding-house-apr2015/aphrodite",
   "author": "Chyld Medford <chyld.medford@gmail.com>",
-  "license": "BSD"
+  "license": "BSD",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "scripts": {
+    "start": "node"
+  }
 }
