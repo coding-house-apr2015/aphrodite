@@ -1,4 +1,3 @@
 /node_modules
-/lib/config/secrets.js
 npm-debug.log
 .DS_Store
